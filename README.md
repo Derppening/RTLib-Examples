@@ -28,12 +28,13 @@ Optional software that will make your life easier:
 1. Clone this repository to your local system. 
 
 ```bash
-git clone https://github.com/Derppening/RTLib-Examples.git
+git clone https://github.com/Derppening/RTLib-Template.git
 ```
 
 2. Initialize all the submodule dependencies.
 
 ```bash
+cd RTLib-Template
 git submodule update --init --recursive
 ```
 
